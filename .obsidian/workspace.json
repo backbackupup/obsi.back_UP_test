@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "рол.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
+              "title": "рол"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Структура Добро пожаловать"
             }
+          },
+          {
+            "id": "e8f41c87e2fd0f62",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0fcb5b001f65691",
+  "active": "1a6ef6cf72e0a1cd",
   "lastOpenFiles": [
+    "рол.md",
+    "Добро пожаловать.md",
     "obsi.back_UP_test",
-    "Без названия.base",
-    "Добро пожаловать.md"
+    "Без названия.base"
   ]
 }

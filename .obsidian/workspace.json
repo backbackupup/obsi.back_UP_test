@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "зшз.md",
+                "file": "hre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "зшз"
+              "title": "hre"
             }
           }
         ]
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a6ef6cf72e0a1cd",
+  "active": "b0fcb5b001f65691",
   "lastOpenFiles": [
     "рол.md",
-    "зшз.md",
+    "hre.md",
     "obsi.back_UP_test",
     "Без названия.base"
   ]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hre.md",
+                "file": "Новый день.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hre"
+              "title": "Новый день"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "20a4f08e8c17b2cf",
   "lastOpenFiles": [
+    "hre.md",
     "/hre.md"
   ]
 }
